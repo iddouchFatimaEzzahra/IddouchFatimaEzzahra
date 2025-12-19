@@ -97,7 +97,3 @@ NLP, Réseaux de Neurones (LSTM), Fine-tuning (Transformers, Llama, BERT), Clust
 - DeepLearning.AI: Supervised Machine Learning: Regression and Classification
 - IBM: Python for Data Science, AI & Development
 
-## 🗣️ Langues
-- **Arabe** : Natif
-- **Français** : Courant
-- **Anglais** : Courant
