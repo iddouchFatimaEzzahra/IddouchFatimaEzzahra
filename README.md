@@ -18,25 +18,30 @@ Ingénieure à l'ENSA Oujda, spécialisée en **Data Science & Cloud Computing**
   Lycée Abdelkhalek Torres, Casablanca, Maroc  
   2020 - 2021
 
-##  Expériences 
-### Stagiaire PFE – RPA & IA | Safran Engineering Services Casablanca
-**Février – Août 2026**
+## 💼 Expériences professionnelles
 
-- **Automatisation des achats :** Conception d’une solution d’automatisation du processus d’approvisionnement en composants électroniques, de la recherche des fournisseurs jusqu’à la génération des factures, à l’aide de UiPath.
-- **Traitement intelligent des documents :** Développement d’une solution d’extraction et d’analyse des données issues de bons de commande PDF, combinant OCR multi-moteurs et modèles de langage (LLM) locaux.
+### 🔹 Stagiaire PFE – RPA & Intelligence Artificielle | Safran Engineering Services
+**Casablanca, Maroc | Février – Août 2026**
+
+- **Automatisation des achats :** Conception d’une solution d’hyperautomatisation du processus d’approvisionnement en composants électroniques avec UiPath, de la recherche des fournisseurs jusqu’à la génération des factures.
+- **Extraction intelligente de documents :** Développement d’un système de traitement de bons de commande PDF combinant OCR multi-moteurs et LLM local pour l’extraction et l’analyse des données.
 - **Technologies :** UiPath, Python, Streamlit, OpenCV, EasyOCR, Tesseract, pdfplumber, Excel, Mistral-7B.
-- **Stagiaire Data Scientist et IA**  
-  Agence Nationale des Ports, Casablanca, Maroc  
-  Septembre 2025  
-  - Développement d'un système hybride : ETL pour données portuaires, intégration LLM (Llama 3 via Ollama API) pour requêtes naturelles, dashboard interactif (Streamlit + Plotly).  
-  - Réduction du temps d'accès aux insights métiers.  
-  - Technologies : Python, Streamlit, Plotly, Ollama API, Pandas, NumPy.
 
-- **Stagiaire en Deep Learning et Data Engineering**  
-  3D Smart Factory, Mohammedia, Maroc  
-  Septembre 2024  
-  - Plateforme de recrutement IA : Analyse CV automatisée, génération de questions d'entretien.  
-  - Technologies : Python, MySQL, spaCy, Transformers, Scikit-learn.
+### 🔹 Stagiaire Data Scientist & Intelligence Artificielle | Agence Nationale des Ports (ANP)
+**Casablanca, Maroc | Septembre 2025**
+
+- **Analyse des données portuaires :** Développement d’un pipeline ETL pour le nettoyage, la transformation et la préparation des données portuaires.
+- **Chatbot intelligent :** Conception d’un système conversationnel basé sur un LLM (Llama 3 via Ollama API) permettant d’interroger les données en langage naturel.
+- **Visualisation des données :** Création d’un tableau de bord interactif avec Streamlit et Plotly pour faciliter l’exploration des données et l’accès aux indicateurs métier.
+- **Technologies :** Python, Pandas, NumPy, Streamlit, Plotly, Ollama, Llama 3, ETL.
+
+### 🔹 Stagiaire Deep Learning & Data Engineering | 3D Smart Factory
+**Mohammedia, Maroc | Septembre 2024**
+
+- **Plateforme de recrutement intelligente :** Développement d’une solution basée sur l’IA pour automatiser l’analyse des CV et générer des questions d’entretien adaptées aux profils des candidats.
+- **Traitement du langage naturel (NLP) :** Exploitation de techniques de NLP et de modèles Transformers pour analyser et extraire des informations pertinentes des CV.
+- **Gestion des données :** Intégration et stockage des données dans une base de données MySQL.
+- **Technologies :** Python, MySQL, spaCy, Transformers, Scikit-learn, NLP.
 
 ##  Projets Phares
 Voici quelques projets que j'ai réalisés. Consultez mes repositories épinglés pour plus de détails !
