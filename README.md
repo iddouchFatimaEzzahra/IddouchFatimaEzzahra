@@ -19,7 +19,7 @@ Ingénieure à l'ENSA Oujda, spécialisée en **Data Science & Cloud Computing**
   2020 - 2021
 
 ##  Expériences 
-- **Stagiaire PFE – RPA & IA **
+- **Stagiaire PFE – RPA & IA**
   Safran Engineering Services Casablanca
   Février – Août 2026
   -Automatisation des achats : approvisionnement en composants orchestré par UiPath, jusqu’à la facturation.
