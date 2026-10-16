@@ -2,7 +2,7 @@
 
 
 
-Étudiante en 5e année à l'ENSA Oujda, spécialisée en **Data Science & Cloud Computing**. Passionnée par l'exploitation des données, la modélisation et les solutions data end-to-end. Je cherche un stage de fin d'études en Data Science / Data Engineering à partir de février 2026 pour contribuer à des projets innovants.
+Ingénieure à l'ENSA Oujda, spécialisée en **Data Science & Cloud Computing**. Passionnée par l'exploitation des données, la modélisation et les solutions data end-to-end. Je cherche un stage de fin d'études en Data Science / Data Engineering à partir de février 2026 pour contribuer à des projets innovants.
 
 - 📍 Casablanca, Maroc
 - 📧 [fatimaezzahraiddouch@gmail.com](mailto:fatimaezzahraiddouch@gmail.com)
@@ -18,7 +18,13 @@
   Lycée Abdelkhalek Torres, Casablanca, Maroc  
   2020 - 2021
 
-##  Expériences Professionnelles
+##  Expériences 
+- **Stagiaire PFE – RPA & IA **
+  Safran Engineering Services Casablanca
+  Février – Août 2026
+  -Automatisation des achats : approvisionnement en composants orchestré par UiPath, jusqu’à la facturation.
+  -Extraction documentaire : OCR multi-moteurs + LLM local (Mistral-7B) sur bons de commande PDF.
+  -Technologies : UiPath, Python, Streamlit, OpenCV, Tesseract, EasyOCR, pdfplumber, Excel
 - **Stagiaire Data Scientist et IA**  
   Agence Nationale des Ports, Casablanca, Maroc  
   Septembre 2025  
