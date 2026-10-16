@@ -19,12 +19,12 @@ Ingénieure à l'ENSA Oujda, spécialisée en **Data Science & Cloud Computing**
   2020 - 2021
 
 ##  Expériences 
-- **Stagiaire PFE – RPA & IA**
-  Safran Engineering Services Casablanca
-  Février – Août 2026
-  -Automatisation des achats : approvisionnement en composants orchestré par UiPath, jusqu’à la facturation.
-  -Extraction documentaire : OCR multi-moteurs + LLM local (Mistral-7B) sur bons de commande PDF.
-  -Technologies : UiPath, Python, Streamlit, OpenCV, Tesseract, EasyOCR, pdfplumber, Excel
+### Stagiaire PFE – RPA & IA | Safran Engineering Services Casablanca
+**Février – Août 2026**
+
+- **Automatisation des achats :** Conception d’une solution d’automatisation du processus d’approvisionnement en composants électroniques, de la recherche des fournisseurs jusqu’à la génération des factures, à l’aide de UiPath.
+- **Traitement intelligent des documents :** Développement d’une solution d’extraction et d’analyse des données issues de bons de commande PDF, combinant OCR multi-moteurs et modèles de langage (LLM) locaux.
+- **Technologies :** UiPath, Python, Streamlit, OpenCV, EasyOCR, Tesseract, pdfplumber, Excel, Mistral-7B.
 - **Stagiaire Data Scientist et IA**  
   Agence Nationale des Ports, Casablanca, Maroc  
   Septembre 2025  
